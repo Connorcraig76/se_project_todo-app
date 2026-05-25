@@ -1,17 +1,26 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+The Todo app is a modern, modularized web application designed to help users manage their daily tasks efficiently.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+The application allows users to add, view, track, and delete to-do items while ensuring strict data validation during user input. Users can also add deadlines to each task if they would like.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+JavaScript (ES6+): Utilizing modern features like Class syntax, destructuring, and arrow functions.
+
+JavaScript Modules (ESM): Using import and export statements to keep files isolated and maintain a clean global scope.
+
+UUID (v4 via JSPM CDN): Leveraging an external package to generate cryptographically secure unique identifiers for DOM elements.
+
+HTML5 & CSS3: Utilizes <template> tags for UI cloning and standard semantic markup.
+
+Object-Oriented Programming (OOP): Encapsulating DOM elements and behavior inside class instances (this), reducing the need to constantly pass arguments between global functions.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+HTTPS: https://github.com/Connorcraig76/se_project_todo-app.git
+SSH: git@github.com:Connorcraig76/se_project_todo-app.git
