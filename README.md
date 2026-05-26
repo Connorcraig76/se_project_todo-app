@@ -22,5 +22,4 @@ Object-Oriented Programming (OOP): Encapsulating DOM elements and behavior insid
 
 This project is deployed on GitHub Pages:
 
-HTTPS: https://github.com/Connorcraig76/se_project_todo-app.git
-SSH: git@github.com:Connorcraig76/se_project_todo-app.git
+https://connorcraig76.github.io/se_project_todo-app/

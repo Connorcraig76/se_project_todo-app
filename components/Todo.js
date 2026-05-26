@@ -9,7 +9,7 @@ class Todo {
           this._todoElement.remove();
   });
         
-        this._todoCheckboxEl.addEventListener ("change", () => {
+        this._todoCheckboxEl.addEventListener("change", () => {
         this._data.completed = !this._data.completed;
     });
   }
